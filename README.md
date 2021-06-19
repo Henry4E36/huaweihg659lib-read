@@ -13,5 +13,6 @@ optional arguments:
   
  # Use
 eg1:>>>python3 huaweihg659lib-read.py -u http://127.0.0.1
+
 eg2:>>>python3 huaweihg659lib-read.py -f ip.txt
 
